@@ -33,7 +33,7 @@ def using_concat(arr1,arr2)
 end
 
 def using_insert(array, ele)
-  arr.insert(ele)
+  array.insert(ele)
   
 end
 
@@ -53,7 +53,7 @@ def using_delete(array, string)
 end
 
 def using_delete_at(array, integer)
-  arra.delete(integer)
+  array.delete_at(integer)
   
 end
 
