@@ -33,7 +33,7 @@ def using_concat(arr1,arr2)
 end
 
 def using_insert(array, ele)
-  array.push(ele)
+  array.insert(4,ele)
   
 end
 
